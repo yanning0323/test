@@ -3,19 +3,19 @@ pipeline {
   stages {
     stage('1') {
       steps {
-        echo '111'
+        echo '111111'
       }
     }
 
     stage('2') {
       steps {
-        echo '222'
+        echo '222222'
       }
     }
 
     stage('3') {
       steps {
-        echo '333'
+        echo '333333'
       }
     }
 
